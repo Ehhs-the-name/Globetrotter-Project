@@ -1,0 +1,51 @@
+By the end of this assignment you will be able to...
+
+	- Construct HTML documents that outline the structure of your travel guide. (Y)
+	- Apply CSS styling to enhance the visual appeal and create a responsive design.
+	- Organize content using Flexbox to provide a seamless user experience.
+	- Incorporate media queries to ensure proper display on various device sizes.
+
+
+= - Challenge Features (Graded) - = 
+
+
+% THIS PART IS DONE!!!
+	% Make site pretty
+		% - Add nice fonts
+		% - fix a:hovers
+		% - Make h2 + h3s prettier too
+		% - Make <details> arrow look nicer plz
+
+
+% THIS PART IS DONE!!!
+	% Home Page
+	% 	- A heading that captures the essence of the destination.
+	% 	- An introductory paragraph that welcomes visitors and sets the context for the site.
+	% 	- An evocative image that represents the location.
+	% 	- Content organized using Flexbox for a fluid layout.
+
+% THIS PART IS DONE!!!
+	% Top Attractions Page
+	% 	- A minimum of three attractions, each with a name, a photo, and a brief description.
+	% 	- Content arranged with Flexbox for consistency and responsiveness.
+
+% THIS PART IS DONE!!!
+	% Guide Section (Choose One)
+	% 	- Either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
+	% 	- At least three entries that provide a name, address, and a description catered to a specific type of traveler (families, backpackers, etc.).
+	% 	- Links to more information for each entry, laid out using Flexbox.
+
+
+% THIS PART IS DONE!!!
+	% Photo Gallery
+	% 	- At least five images with captions that convey the local atmosphere or highlights.
+	% 	- A gallery presented in a responsive design.
+
+% THIS PART IS DONE!!!
+	% Navigation Bar
+	% 	- Links to each main page of the site (Home, Top Attractions, Photo Gallery, and the chosen Guide section).
+	% 	- A navigation bar styled with Flexbox that adapts to different screen sizes.
+
+% THIS PART IS DONE!!!
+	% Smartphone Friendly
+	% 	- A design that is fully functional and aesthetically pleasing on smartphones, achieved with media queries.
